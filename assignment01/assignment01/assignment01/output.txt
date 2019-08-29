@@ -1,0 +1,48 @@
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 2000-02-07, New York, New York, USA
+Date and place of birth: 1980-05-12, Miami, Florida, USA
+Date and place of birth: 1995-08-27, Lawrence, Massachusetts, USA
+Date and place of birth: 1999-08-27, Gjakova, Kosovo
+Date and place of birth: 1999-08-27, Santo Domingo, Dominican Republic
+false
+false
+true
+true
+false
+false
+false
+
+TESTS FOR Computer.java:
+Macbook Air, Good cpu, 16GB Memory, 1.1TB Solid State Drive, Price: $1099.00 
+Dell, Okay cpu, 16GB Memory, 1.2TB Hard Drive, Price: $800.00 
+Asus, Great cpu, 32GB Memory, 900GB Solid State Drive, Price: $1999.00 
+Hp, Bad cpu, 8GB Memory, 500GB Hard Drive, Price: $500.00 
+
+TESTS FOR StreetUSAddress.java:
+2440 Amsterdam Avenue
+New York, NY 10033
+3450 Broadway Avenue
+2230 St Nicholas Avenue
+New York, NY 10040
+
+TESTS FOR Person.java:
+Kenny Gell 142887673,
+Date and place of birth: 2000-02-07, New York, NY, USA
+2440 Amsterdam Avenue
+New York, NY 10033
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Kenny Alsina 132776543,
+Date and place of birth: 2000-02-07, New York, New York, USA
+2440 Amsterdam Avenue
+New York, NY 10033
+Computers: [Toshiba, Good cpu, 32GB Memory, 1.2TB Solid State Drive, Price: $1000.00 , Mac, Good cpu, 16GB Memory, 1.0TB Hard Drive, Price: $1100.00 , Lenovo, Bad cpu, 8GB Memory, 500GB Solid State Drive, Price: $500.00 , Acer, Okay cpu, 32GB Memory, 900GB Hard Drive, Price: $900.00 ]
+Computer List, Owner: Kenny Alsina 132776543,
+Date and place of birth: 2000-02-07, New York, New York, USA
+2440 Amsterdam Avenue
+New York, NY 10033
+Computers: [Mac, Good cpu, 16GB Memory, 1.0TB Hard Drive, Price: $1100.00 , Acer, Okay cpu, 32GB Memory, 900GB Hard Drive, Price: $900.00 ]
+
+TESTS FOR SimpleDate.java:
+true
